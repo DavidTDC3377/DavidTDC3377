@@ -2,8 +2,7 @@
 - 👀 I’m interested in Scripting and collaborating
 - 🌱 I’m currently learning Lua, Roblox's programming language.
 - 💞️ I’m looking to collaborate on Roblox programs
-- 📫 How to reach me ...
-Roblox PM: DavidTDC3377 (Follow me first!)
+- 📫 How to reach me Roblox PM: DavidTDC3377 (Follow me first!) or email me [here](https://github.com/DavidTheRobloxDev) and click on the Email
 
 
 <!---
