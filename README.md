@@ -1,8 +1,12 @@
 - 👋 Hi, I’m @DavidTDC3377
-- 👀 I’m interested in Scripting and collaborating
-- 🌱 I’m currently learning Lua, Roblox's programming language.
-- 💞️ I’m looking to collaborate on Roblox programs
-- 📫 How to reach me Roblox PM: DavidTDC3377 (Follow me first!) or email me [here](https://github.com/DavidTheRobloxDev) and click on the Email
+- 👀 I’m interested in Scripting and making stuff
+- 🌱 I’m currently using Lua, Roblox's programming language.
+- 📫 How to reach me:
+Roblox PM: DavidTDC3377 (Follow me first!) or email me [here](https://github.com/DavidTheRobloxDev) and click on the Email
+
+
+
+![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidtdc3377&show_icons=true&bg_color=25,ff8c1a,00e68a)
 
 
 <!---
