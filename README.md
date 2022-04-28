@@ -6,7 +6,7 @@ Roblox PM: DavidTDC3377 (Follow me first!) or email me [here](https://github.com
 
 
 
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidtdc3377&show_icons=true&bg_color=25,cceeff,66ccff,003799,8533ff)
+![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidtdc3377&show_icons=true)
 
 
 <!---
