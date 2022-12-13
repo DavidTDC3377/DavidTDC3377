@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @DavidTDC3377
-- 👀 I’m interested in Scripting and making stuff
-- 🌱 I’m currently using Lua, Roblox's programming language.
+
 - 📫 How to reach me:
-Roblox PM: DavidTDC3377 (Follow me first!) or email me [here](https://github.com/DavidTheRobloxDev) and click on the Email
+You can [email me](mailto:david@davidstudios.uk) or check my [org profile](https://github.com/DavidStudios) for details on contact.
 
 
 
