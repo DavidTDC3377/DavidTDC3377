@@ -4,7 +4,17 @@ You can [email me](mailto:david@davidstudios.uk) or check my [org profile](https
 
 
 
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidtdc3377&show_icons=true)
+<a href="https://github-readme-stats.vercel.app/api?username=DavidTDC3377&count_private=true&show_icons=true&theme=chartreuse-dark">
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DavidTDC3377&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+
+</a>
+
+
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidTDC3377&bg_color=30,e96443,904e95&title_color=ff&text_color=fff" />
+
+
 
 
 <!---
