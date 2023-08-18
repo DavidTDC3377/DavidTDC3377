@@ -1,7 +1,4 @@
-
-- 📫 How to reach me:
-You can [email me](mailto:david@davidstudios.uk) or check my [org profile](https://github.com/DavidStudios) for details on contact.
-
+## Human on planet earth.
 
 
 <a href="https://github-readme-stats.vercel.app/api?username=DavidTDC3377&count_private=true&show_icons=true&theme=chartreuse-dark">
