@@ -5,8 +5,6 @@
 * Mainly JavaScript
 * Sometimes Roblox
 
-That's just my life, *lol*.
-
 **Anyways, here's my stats:**
 ###### Yes, you can clap now.
 
