@@ -37,6 +37,6 @@ TDC and 3377 doesn't really mean anything, it's just a random set of letters and
   
  You can reach me on Telegram as [`@D4vidthedev`](https://t.me/D4vidthedev) or via e-mail: [david@davidstudios.uk](mailto:david@davidstudios.uk) 
 
-** ⚠️ NOTE: If you are playing one of our games, and for example you don't have an item when you bought it or the game is buggy, please email [support@davidstudios.uk](mailto:support@davidstudios.uk) for help. **
+**⚠️ NOTE: If you are playing one of our games, and for example you don't have an item when you bought it or the game is buggy, please email [support@davidstudios.uk](mailto:support@davidstudios.uk) for help.**
   
 ## Bye for now 👋
