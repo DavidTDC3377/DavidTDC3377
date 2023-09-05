@@ -28,8 +28,8 @@ TDC and 3377 doesn't really mean anything, it's just a random set of letters and
   
  Here's a list of older projects (that won't get updates) that other people use: 
   
- * [PowerPoint Discord Rich Presence](https://github.com/datkat21/PowerPoint-Discord-RPC)     
-   A Microsoft PowerPoint add-in that enables Discord Rich Presence using [DiscordRPC for C#](https://github.com/Lachee/discord-rpc-csharp). 
+ * [GuiService](https://github.com/DavidStudios/GuiService)     
+  Create your own notification, frame or TextLabel with a script, quickly and easily. 
   
  <a id="contact-me"> 
  <h1> 💬 How to contact me </h1>
