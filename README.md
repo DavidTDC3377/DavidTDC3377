@@ -23,7 +23,6 @@ TDC and 3377 doesn't really mean anything, it's just a random set of letters and
   
  Below is a couple of projects I work on: 
   
- * [Envy - Web OS](https://github.com/envywebos/envywebos.github.io) — An OS inside a web! designed for devices that are 'locked down' such as Chromebooks!
  * Zenon *Coming soon* - A part of my David Studios group that focuses on the web!
   
  Here's a list of older projects (that won't get updates) that other people use: 
